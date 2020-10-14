@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\bin\Debug\netcoreapp3.0\BooksCollection.exe
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\bin\Debug\netcoreapp3.0\BooksCollection.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\bin\Debug\netcoreapp3.0\BooksCollection.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\bin\Debug\netcoreapp3.0\BooksCollection.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\bin\Debug\netcoreapp3.0\BooksCollection.dll
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\bin\Debug\netcoreapp3.0\BooksCollection.pdb
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\obj\Debug\netcoreapp3.0\BooksCollection.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\obj\Debug\netcoreapp3.0\BooksCollection.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\obj\Debug\netcoreapp3.0\BooksCollection.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\obj\Debug\netcoreapp3.0\BooksCollection.dll
+C:\Users\Denis\Desktop\Новая папка C#\BooksCollection\BooksCollection\obj\Debug\netcoreapp3.0\BooksCollection.pdb
